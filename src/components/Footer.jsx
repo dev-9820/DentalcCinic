@@ -123,7 +123,7 @@ const Footer = () => {
         <div className="border-t border-white/20 pt-8">
           <div className="flex justify-between items-center">
             <p className="text-blue-100 text-sm">
-              © 2024 DentalClinic. All rights reserved.
+              © 2025 Dev Bhanushali. All rights reserved.
             </p>
             <div className="flex space-x-6">
               {['Privacy Policy', 'Terms of Service', 'Cookie Policy'].map((item) => (
